@@ -1,0 +1,45 @@
+*{
+    margin:3px;
+    padding:3px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.contact__head{
+    color:black;
+    background-color:lightgrey;
+    border-radius:10px;
+    font-weight:bolder;
+    font-size: xx-large;
+
+}
+.contact__para{
+    font-weight:bold;
+    font-size:x-large;
+}
+.contact__button{
+    color:black;
+    background-color:red;
+    font-weight:bolder;
+    font-size:medium;
+    border-radius: 10px;
+}
+.section-two__input,.section-two__textarea{
+   border:none;
+    border-bottom: solid black 1px;
+    
+}
+.section-two__submit{
+    color:black;
+    background-color:red;
+    font-weight:bolder;
+    font-size:medium;
+    border-radius:10px;
+}
+.section-two__social{
+    color:black;
+    background-color:lightgray;
+    display:inline-block;
+    font-weight:bold;
+    font-size:large;
+    border-radius:10px;
+}
